@@ -1,2 +1,2 @@
-# pyraphraser
-GAN Paraphraser in Python
+# pyreviewer
+Generate automatic critics on Spotify albums
